@@ -1,0 +1,11 @@
+.idea
+api_with_restrictions/venv
+**.cfg
+**.loc
+**.tmp
+**/__pycache__
+Thumbs.db
+.DS_Store
+.idea/workspace.xml
+*.json
+test.py
